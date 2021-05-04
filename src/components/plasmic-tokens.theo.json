@@ -1,0 +1,29 @@
+{
+  "props": [
+    {
+      "name": "Icons",
+      "type": "fontsize",
+      "value": "5em",
+      "category": "fontsize",
+      "meta": {
+        "projectId": "9eiWo8Eadwtw46zacr9r4i",
+        "id": "sHcY3HAHg"
+      }
+    },
+    {
+      "name": "UnnamedStyleToken",
+      "type": "color",
+      "value": "#ffffff",
+      "category": "color",
+      "meta": {
+        "projectId": "9eiWo8Eadwtw46zacr9r4i",
+        "id": "8wRx2_dJi"
+      }
+    }
+  ],
+  "global": {
+    "meta": {
+      "source": "plasmic.app"
+    }
+  }
+}

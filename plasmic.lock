@@ -1,0 +1,98 @@
+{
+  "projects": [
+    {
+      "projectId": "9eiWo8Eadwtw46zacr9r4i",
+      "version": "latest",
+      "dependencies": {},
+      "lang": "ts",
+      "fileLocks": [
+        {
+          "type": "globalVariant",
+          "assetId": "espplJWs6Xop",
+          "checksum": "9ec344349b2981bc22c626cf5889ee94"
+        },
+        {
+          "assetId": "9eiWo8Eadwtw46zacr9r4i",
+          "type": "projectCss",
+          "checksum": "a2b85b233c7a0cc47e327a5598760998"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "WKVC6UUiZOSL",
+          "checksum": "b0ce21e1b58664fc6a01c415da349c59"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "WKVC6UUiZOSL",
+          "checksum": "b0ce21e1b58664fc6a01c415da349c59"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "IPSKWCy1bK",
+          "checksum": "98cf1d35f5bf644e53fc2aa11eddf506"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "IPSKWCy1bK",
+          "checksum": "98cf1d35f5bf644e53fc2aa11eddf506"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "Bn93SDaxd4",
+          "checksum": "7ba3fe60a7daafc679c7ac174ba77d73"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "Bn93SDaxd4",
+          "checksum": "7ba3fe60a7daafc679c7ac174ba77d73"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "R8K1Ax2vgj",
+          "checksum": "73349836677f411c6cb11bcfcaacc565"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "R8K1Ax2vgj",
+          "checksum": "73349836677f411c6cb11bcfcaacc565"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "aTev8hzWiX",
+          "checksum": "566ba5c9e0e39150e60316222134faf6"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "aTev8hzWiX",
+          "checksum": "566ba5c9e0e39150e60316222134faf6"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "h-xa1NKd6k",
+          "checksum": "4950032b20303701d2760dbded758bec"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "h-xa1NKd6k",
+          "checksum": "4950032b20303701d2760dbded758bec"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "griCARnu-f",
+          "checksum": "13f295b1dab9c47b99eeacc8b8866a6e"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "griCARnu-f",
+          "checksum": "13f295b1dab9c47b99eeacc8b8866a6e"
+        },
+        {
+          "type": "icon",
+          "assetId": "p1cqKS3Zbj",
+          "checksum": "353078f5f8c1a5f1e4d21d13ee5f67fe"
+        }
+      ]
+    }
+  ],
+  "cliVersion": "0.1.144"
+}

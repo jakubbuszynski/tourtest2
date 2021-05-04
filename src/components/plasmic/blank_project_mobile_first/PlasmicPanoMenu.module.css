@@ -1,0 +1,35 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 931px;
+  height: 300px;
+}
+.box {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.svg {
+  position: relative;
+  object-fit: cover;
+  align-self: center;
+  width: 3em;
+  height: 3em;
+  margin-bottom: 1em;
+  color: #909090;
+  box-shadow: none;
+  mix-blend-mode: multiply;
+  flex-shrink: 0;
+}
+.button__wtXhv {
+  position: relative;
+}
+.button__uarVa {
+  position: relative;
+}
+.button__pAFqR {
+  position: relative;
+}

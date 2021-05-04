@@ -1,0 +1,144 @@
+{
+  "platform": "react",
+  "code": {
+    "lang": "ts",
+    "scheme": "blackbox"
+  },
+  "style": {
+    "scheme": "css-modules",
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.module.css"
+  },
+  "images": {
+    "scheme": "files",
+    "publicDir": "../../public",
+    "publicUrlPrefix": "/static/"
+  },
+  "tokens": {
+    "scheme": "theo",
+    "tokensFilePath": "plasmic-tokens.theo.json"
+  },
+  "srcDir": "src/components",
+  "defaultPlasmicDir": "./plasmic",
+  "projects": [
+    {
+      "projectId": "9eiWo8Eadwtw46zacr9r4i",
+      "projectName": "Blank project (mobile-first)",
+      "version": "latest",
+      "cssFilePath": "plasmic/blank_project_mobile_first/plasmic_blank_project_mobile_first.module.css",
+      "components": [
+        {
+          "id": "WKVC6UUiZOSL",
+          "name": "Homepage",
+          "type": "managed",
+          "projectId": "9eiWo8Eadwtw46zacr9r4i",
+          "renderModuleFilePath": "plasmic/blank_project_mobile_first/PlasmicHomepage.tsx",
+          "importSpec": {
+            "modulePath": "Homepage.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project_mobile_first/PlasmicHomepage.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "IPSKWCy1bK",
+          "name": "PanoViewer",
+          "type": "managed",
+          "projectId": "9eiWo8Eadwtw46zacr9r4i",
+          "renderModuleFilePath": "plasmic/blank_project_mobile_first/PlasmicPanoViewer.tsx",
+          "importSpec": {
+            "modulePath": "PanoViewer.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project_mobile_first/PlasmicPanoViewer.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "Bn93SDaxd4",
+          "name": "PanoGallery",
+          "type": "managed",
+          "projectId": "9eiWo8Eadwtw46zacr9r4i",
+          "renderModuleFilePath": "plasmic/blank_project_mobile_first/PlasmicPanoGallery.tsx",
+          "importSpec": {
+            "modulePath": "PanoGallery.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project_mobile_first/PlasmicPanoGallery.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "R8K1Ax2vgj",
+          "name": "PanoMenu",
+          "type": "managed",
+          "projectId": "9eiWo8Eadwtw46zacr9r4i",
+          "renderModuleFilePath": "plasmic/blank_project_mobile_first/PlasmicPanoMenu.tsx",
+          "importSpec": {
+            "modulePath": "PanoMenu.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project_mobile_first/PlasmicPanoMenu.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "aTev8hzWiX",
+          "name": "Tours",
+          "type": "managed",
+          "projectId": "9eiWo8Eadwtw46zacr9r4i",
+          "renderModuleFilePath": "plasmic/blank_project_mobile_first/PlasmicTours.tsx",
+          "importSpec": {
+            "modulePath": "Tours.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project_mobile_first/PlasmicTours.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "h-xa1NKd6k",
+          "name": "Login",
+          "type": "managed",
+          "projectId": "9eiWo8Eadwtw46zacr9r4i",
+          "renderModuleFilePath": "plasmic/blank_project_mobile_first/PlasmicLogin.tsx",
+          "importSpec": {
+            "modulePath": "Login.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project_mobile_first/PlasmicLogin.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "griCARnu-f",
+          "name": "TourCreator",
+          "type": "managed",
+          "projectId": "9eiWo8Eadwtw46zacr9r4i",
+          "renderModuleFilePath": "plasmic/blank_project_mobile_first/PlasmicTourCreator.tsx",
+          "importSpec": {
+            "modulePath": "TourCreator.tsx"
+          },
+          "cssFilePath": "plasmic/blank_project_mobile_first/PlasmicTourCreator.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        }
+      ],
+      "icons": [
+        {
+          "id": "p1cqKS3Zbj",
+          "name": "DoorOpensvgIcon",
+          "moduleFilePath": "plasmic/blank_project_mobile_first/icons/PlasmicIcon__DoorOpensvg.tsx"
+        }
+      ],
+      "images": [],
+      "projectApiToken": "qAObQxWCcsQQY9vw22vg92fCX7qQvLVKs2Osw8uvjT0t93TzyflLNbSd5bptck5IWGs9zBr5qcoDTi62wNQwwA"
+    }
+  ],
+  "globalVariants": {
+    "variantGroups": [
+      {
+        "id": "espplJWs6Xop",
+        "name": "Screen",
+        "projectId": "9eiWo8Eadwtw46zacr9r4i",
+        "contextFilePath": "plasmic/blank_project_mobile_first/PlasmicGlobalVariant__Screen.tsx"
+      }
+    ]
+  },
+  "cliVersion": "0.1.144",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.144/dist/plasmic.schema.json"
+}

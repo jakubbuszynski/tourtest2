@@ -1,0 +1,19 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 150px;
+  height: 165px;
+  padding-right: 0px;
+  padding-left: 0px;
+  background: #000000;
+}
+.button {
+  position: relative;
+}
+.button___new {
+  width: 100%;
+  height: 100%;
+  font-size: 5em /* plasmic-token: sHcY3HAHg */;
+  color: #ffffffcc;
+}
